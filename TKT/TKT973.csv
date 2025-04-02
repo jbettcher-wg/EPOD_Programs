@@ -1,0 +1,41 @@
+﻿tn_TicketNumber,CustName,Textbox15,th_TicketDate,CustName4,CustName3,CustName7,CustName10,CustName8,CustName6,CustName9,CustName5,CustName11
+TKT00000973,Cenovus Energy Inc.,"Westgen Technologies
+2500, 639 – 5th Avenue SW
+Calgary, Alberta, T2P 0M9
+Ph: 1-888-609-3763","Mar 21, 2025",Alberta,,Electrical,,EP-00309,50131278,Brennan Hallett,Jordan Bettcher,
+
+lc_LandSpecificationValue
+100/12 - 24 - 060 - 24 - W5/00 
+
+ra_ResourceCategoryDesc1,re_Name1,re_Name21,re_Name31,re_Name41,Engine,Compressors,Inverter,Batteries,Scada,ScadaIP
+AP6-Mini,EP-00309,Cenovus Energy,Kakwa,EPMN-AP6-5D-HS,6kW,"FS Curtis CA5+, 5HP, Dryspell 20",Sol-ark,Firefly G31 8x 12V 232Ah,,
+
+ld_Description,lc_LandSpecificationValue1
+DLS,100/12 - 24 - 060 - 24 - W5/00 
+DLS,05-07-063-05W6M
+
+ItemDescription,Qty,UnitCode,Rate,Amount1,Amount
+Field Technician Level 1 Labor,6.00,HR,$128.00,$768.00,"$12,020.08"
+Service - Truck Hours,6.00,HR,$52.00,$312.00,"$12,020.08"
+Field Technician Level 1 Labor,6.00,HR,$128.00,$768.00,"$12,020.08"
+"310863 Frame, Battery Bank, Lithium, HomeGrid Energy",1.00,EA,$287.70,$287.70,"$12,020.08"
+"P12000 Base and Controller, Stack’d Modules, 4.8kW, LFP Battery, Class 9",1.00,EA,"$2,145.35","$2,145.35","$12,020.08"
+"P12733 Battery Module, Stack'd, 4.8kW, LFP Battery, Class 9, Heated",2.00,EA,"$3,583.62","$7,167.24","$12,020.08"
+"310949 - Genset Air Intake Assy, EPMN-AP6",1.00,EA,$156.78,$156.78,"$12,020.08"
+"P11801 Cable, DLO, 4/0, 2000V, EPR/CPE",2.00,M,$48.09,$96.18,"$12,020.08"
+"P12798 Cable, Data, Cat5e, Shielded, Red",3.00,M,$2.11,$6.33,"$12,020.08"
+"P12443 Lug, Compress, STD Barrel, 3/8, 250MCM, Copper, Tin Plated, Yellow",3.00,EA,$17.18,$51.54,"$12,020.08"
+XPR710 Environmental Disposal Fee,1.00,EA,$150.00,$150.00,"$12,020.08"
+"P11271 Terminal, WDU2.5",4.00,EA,$2.74,$10.96,"$12,020.08"
+Consumables,1.00,EA,$100.00,$100.00,"$12,020.08"
+
+Notes
+"     
+Epod 309 Cenovus 5-7
+
+Removed old batteries and Rack
+Installed new two stack home grid and BMS
+installed engine air intake
+installed associated cables and made required terminations
+updated programming and solark settings"
+

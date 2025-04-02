@@ -1,0 +1,33 @@
+﻿tn_TicketNumber,CustName,Textbox15,th_TicketDate,CustName4,CustName3,CustName7,CustName10,CustName8,CustName6,CustName9,CustName5,CustName11
+TKT00000318,Arc Resources,"Westgen Technologies
+2500, 639 – 5th Avenue SW
+Calgary, Alberta, T2P 0M9
+Ph: 1-888-609-3763","Nov 29, 2023",Alberta,Tyson Falle,Electrical,780.512.8519,EP-00179,,Jordan Bettcher,Ryan Loeppky,
+
+lc_LandSpecificationValue
+100/12 - 24 - 060 - 24 - W5/00 
+
+ra_ResourceCategoryDesc1,re_Name1,re_Name21,re_Name31,re_Name41,Engine,Compressors,Inverter,Batteries,Scada,ScadaIP
+EPXL-AP20,EP-00179,Arc Resources,Kakwa,EXPL-AP20-5D-HX,20kW,"FS Curtis CA5+, 5HP",Sol-Ark,Switch 48V 420Ah SWE6-420 QTY: 8,,
+
+ld_Description,lc_LandSpecificationValue1
+DLS,100/12 - 24 - 060 - 24 - W5/00 
+DLS,15-31-062-04 W6M
+
+ItemDescription,Qty,UnitCode,Rate,Amount1,Amount
+Field Technician Level 1 Labor,4.00,HR,$95.00,$380.00,"$2,637.89"
+Service - Truck Hours,4.00,HR,$46.00,$184.00,"$2,637.89"
+"P11787 Control Module, Deep Sea 7410 MKII",1.00,EA,"$1,580.39","$1,580.39","$2,637.89"
+Field Technician Level 1 Labor,3.50,HR,$95.00,$332.50,"$2,637.89"
+Service - Truck Hours,3.50,HR,$46.00,$161.00,"$2,637.89"
+
+Notes
+"     
+Deep Sea Panel installed
+
+Programming updated
+Maintenance screen added
+Generator screen added
+Battery charger fault and failsafe added
+Backup generator alarm bug fix "
+

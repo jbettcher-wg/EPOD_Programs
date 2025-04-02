@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EPOD Ticket Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>EPOD Ticket Viewer</h1>
+        </header>
+        
+        <main>
+            <div class="selection-panel">
+                <label for="epod-select">Select an EPOD to View Service History</label>
+                <select id="epod-select">
+                    <option value="">-- Select EPOD ID --</option>
+                </select>
+            </div>
+            
+            <div class="results-panel">
+                <div id="no-selection" class="message">
+                    <p>Please select an EPOD from the dropdown menu to view their tickets.</p>
+                </div>
+                
+                <div id="tickets-container" class="hidden">
+                    <!-- Tickets will be displayed here -->
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2025 EPOD Ticket Viewer</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+

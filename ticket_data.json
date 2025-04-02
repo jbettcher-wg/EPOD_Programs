@@ -1,0 +1,168 @@
+{
+    "EP-00179": {
+        "TKT00000318": {
+            "tn_TicketNumber": "TKT00000318",
+            "CustName8": "EP-00179",
+            "Notes": "Deep Sea Panel installed\n\nProgramming updated\nMaintenance screen added\nGenerator screen added\nBattery charger fault and failsafe added\nBackup generator alarm bug fix",
+            "LineItems": [
+                {
+                    "ItemDescription": "Field Technician Level 1 Labor",
+                    "Qty": "4.00"
+                },
+                {
+                    "ItemDescription": "Service - Truck Hours",
+                    "Qty": "4.00"
+                },
+                {
+                    "ItemDescription": "P11787 Control Module, Deep Sea 7410 MKII",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "Field Technician Level 1 Labor",
+                    "Qty": "3.50"
+                },
+                {
+                    "ItemDescription": "Service - Truck Hours",
+                    "Qty": "3.50"
+                }
+            ]
+        }
+    },
+    "EP-00309": {
+        "TKT00000973": {
+            "tn_TicketNumber": "TKT00000973",
+            "CustName8": "EP-00309",
+            "Notes": "Epod 309 Cenovus 5-7\n\nRemoved old batteries and Rack\nInstalled new two stack home grid and BMS\ninstalled engine air intake\ninstalled associated cables and made required terminations\nupdated programming and solark settings",
+            "LineItems": [
+                {
+                    "ItemDescription": "Field Technician Level 1 Labor",
+                    "Qty": "6.00"
+                },
+                {
+                    "ItemDescription": "Service - Truck Hours",
+                    "Qty": "6.00"
+                },
+                {
+                    "ItemDescription": "Field Technician Level 1 Labor",
+                    "Qty": "6.00"
+                },
+                {
+                    "ItemDescription": "310863 Frame, Battery Bank, Lithium, HomeGrid Energy",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P12000 Base and Controller, Stack\u2019d Modules, 4.8kW, LFP Battery, Class 9",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P12733 Battery Module, Stack'd, 4.8kW, LFP Battery, Class 9, Heated",
+                    "Qty": "2.00"
+                },
+                {
+                    "ItemDescription": "310949 - Genset Air Intake Assy, EPMN-AP6",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P11801 Cable, DLO, 4/0, 2000V, EPR/CPE",
+                    "Qty": "2.00"
+                },
+                {
+                    "ItemDescription": "P12798 Cable, Data, Cat5e, Shielded, Red",
+                    "Qty": "3.00"
+                },
+                {
+                    "ItemDescription": "P12443 Lug, Compress, STD Barrel, 3/8, 250MCM, Copper, Tin Plated, Yellow",
+                    "Qty": "3.00"
+                },
+                {
+                    "ItemDescription": "XPR710 Environmental Disposal Fee",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P11271 Terminal, WDU2.5",
+                    "Qty": "4.00"
+                },
+                {
+                    "ItemDescription": "Consumables",
+                    "Qty": "1.00"
+                }
+            ]
+        },
+        "TKT00000576": {
+            "tn_TicketNumber": "TKT00000576",
+            "CustName8": "EP-00309",
+            "Notes": "",
+            "LineItems": [
+                {
+                    "ItemDescription": "Field Technician Level 1 Labor",
+                    "Qty": "2.00"
+                },
+                {
+                    "ItemDescription": "Service - Truck Hours",
+                    "Qty": "2.00"
+                }
+            ]
+        }
+    },
+    "EP-00310": {
+        "TKT00000971": {
+            "tn_TicketNumber": "TKT00000971",
+            "CustName8": "EP-00310",
+            "Notes": "Epod 310 Cenovus 15-16\n\nRemoved old batteries and Rack\nInstalled new two stack home grid and BMS\ninstalled engine air intake\ninstalled associated cables and made required terminations\nupdated programming and solark settings",
+            "LineItems": [
+                {
+                    "ItemDescription": "Field Technician Level 1 Labor",
+                    "Qty": "6.00"
+                },
+                {
+                    "ItemDescription": "Service - Truck Hours",
+                    "Qty": "6.00"
+                },
+                {
+                    "ItemDescription": "Field Technician Level 1 Labor",
+                    "Qty": "6.00"
+                },
+                {
+                    "ItemDescription": "310863 Frame, Battery Bank, Lithium, HomeGrid Energy",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P12000 Base and Controller, Stack\u2019d Modules, 4.8kW, LFP Battery, Class 9",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P12733 Battery Module, Stack'd, 4.8kW, LFP Battery, Class 9, Heated",
+                    "Qty": "2.00"
+                },
+                {
+                    "ItemDescription": "310949 - Genset Air Intake Assy, EPMN-AP6",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P11801 Cable, DLO, 4/0, 2000V, EPR/CPE",
+                    "Qty": "2.00"
+                },
+                {
+                    "ItemDescription": "P12798 Cable, Data, Cat5e, Shielded, Red",
+                    "Qty": "3.00"
+                },
+                {
+                    "ItemDescription": "P12443 Lug, Compress, STD Barrel, 3/8, 250MCM, Copper, Tin Plated, Yellow",
+                    "Qty": "3.00"
+                },
+                {
+                    "ItemDescription": "XPR710 Environmental Disposal Fee",
+                    "Qty": "1.00"
+                },
+                {
+                    "ItemDescription": "P11271 Terminal, WDU2.5",
+                    "Qty": "4.00"
+                },
+                {
+                    "ItemDescription": "Consumables",
+                    "Qty": "1.00"
+                }
+            ]
+        }
+    }
+}

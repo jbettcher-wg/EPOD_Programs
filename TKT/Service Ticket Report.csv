@@ -1,0 +1,23 @@
+﻿tn_TicketNumber,CustName,Textbox15,th_TicketDate,CustName4,CustName3,CustName7,CustName10,CustName8,CustName6,CustName9,CustName5,CustName11
+TKT00000576,Cenovus Energy Inc.,"Westgen Technologies
+2500, 639 – 5th Avenue SW
+Calgary, Alberta, T2P 0M9
+Ph: 1-888-609-3763","Mar 4, 2024",Alberta,,,,EP-00309,Warranty,Brennan Hallett,Ryan Loeppky,
+
+lc_LandSpecificationValue
+100/12 - 24 - 060 - 24 - W5/00 
+
+ra_ResourceCategoryDesc1,re_Name1,re_Name21,re_Name31,re_Name41,Engine,Compressors,Inverter,Batteries,Scada,ScadaIP
+AP6-Mini,EP-00309,Cenovus Energy,Kakwa,EPMN-AP6-5D-HS,6kW,"FS Curtis CA5+, 5HP, Dryspell 20",Sol-ark,Firefly G31 8x 12V 232Ah,,
+
+ld_Description,lc_LandSpecificationValue1
+DLS,100/12 - 24 - 060 - 24 - W5/00 
+DLS,05-07-063-05W6M
+
+ItemDescription,Qty,UnitCode,Rate,Amount1,Amount
+Field Technician Level 1 Labor,2.00,HR,$0.00,$0.00,$0.00
+Service - Truck Hours,2.00,HR,$0.00,$0.00,$0.00
+
+Notes
+
+
